@@ -4,6 +4,9 @@
     <title>test1</title>
     <url>/2019/10/22/test1/</url>
     <content><![CDATA[]]></content>
+      <tags>
+        <tag>test</tag>
+      </tags>
   </entry>
   <entry>
     <title>test</title>
