@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>最短路径算法--Dijkstra算法，Bellman ford算法和Floyd算法</title>
+    <url>/2019/10/23/%E6%9C%80%E7%9F%AD%E8%B7%AF%E5%BE%84%E7%AE%97%E6%B3%95--Dijkstra%E7%AE%97%E6%B3%95%EF%BC%8CBellman%20ford%E7%AE%97%E6%B3%95%E5%92%8CFloyd%E7%AE%97%E6%B3%95/</url>
+    <content><![CDATA[<p>  本文介绍最短路径算法Dijkstra算法，Bellman ford算法以及Floyd算法。</p>
+<a id="more"></a>]]></content>
+      <categories>
+        <category>图论</category>
+        <category>最短路径算法</category>
+      </categories>
+      <tags>
+        <tag>最短路径算法</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>test1</title>
     <url>/2019/10/22/test1/</url>
     <content><![CDATA[]]></content>
